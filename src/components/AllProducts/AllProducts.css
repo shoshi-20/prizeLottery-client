@@ -1,0 +1,14 @@
+.myCard{
+ width: 200px;
+  height: 250px;
+margin: 10px;
+border-Radius: 16;
+ background-color: 8 px rgb(161, 219, 247);
+}
+.container{
+
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+}

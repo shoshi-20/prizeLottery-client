@@ -1,0 +1,20 @@
+[
+    {
+        "userName": "משה",
+        "prizeName": "מכונית",
+        "ticketsNum": "2",
+        "donationSum": "120"
+    },
+    {
+        "userName": "חיה",
+        "prizeName": "מטבח",
+        "ticketsNum": "3",
+        "donationSum": "90"
+    },
+    {
+        "userName": "דוד",
+        "prizeName": "ספריה יוקרתית",
+        "ticketsNum": "1",
+        "donationSum": "25"
+    }
+]
